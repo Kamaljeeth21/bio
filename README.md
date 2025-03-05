@@ -8,8 +8,7 @@ I have a strong passion for technology and web development. I am proficient in H
 Apart from academics, I enjoy playing online games like Battlegrounds Mobile India, which helps me improve my strategic thinking and teamwork skills.
 
 I am always eager to learn new technologies and collaborate on innovative projects. Looking forward to connecting and growing together!
-
-This version highlights your technical skills while keeping it engaging. Let me know if you need further refinements!<br><br>
+<br><br>
 
 
 ## 🌐 Socials:
