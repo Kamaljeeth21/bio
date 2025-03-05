@@ -1,6 +1,15 @@
 # bio
 # 💫 About Me:
-My name is SARDAR KAMALJEETH SINGH CHAHAL, and I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering at Kamala Institute of Technology and Science.<br><br>
+Hello everyone,
+I’m Sardar Kamaljeeth Singh, a 20-year-old B.Tech student at Kamala Institute of Technology and Science, specializing in Computer Science and Engineering.
+
+I have a strong passion for technology and web development. I am proficient in HTML, CSS, JavaScript, Bootstrap, and C, which I use to build interactive and responsive websites. To further enhance my skills, I have attended workshops on Java (conducted by TASK - Telangana Academy for Skill and Knowledge) and MIT App Inventor, gaining hands-on experience in application development.
+
+Apart from academics, I enjoy playing online games like Battlegrounds Mobile India, which helps me improve my strategic thinking and teamwork skills.
+
+I am always eager to learn new technologies and collaborate on innovative projects. Looking forward to connecting and growing together!
+
+This version highlights your technical skills while keeping it engaging. Let me know if you need further refinements!<br><br>
 
 
 ## 🌐 Socials:
